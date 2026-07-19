@@ -36,16 +36,28 @@ ITSM (ServiceNow) · LogicMonitor · Zabbix · Análise de causa raiz (RCA)
 
 ---
 
-## Projetos em destaque
+## 🚀 Projetos em Destaque
 
-| Projeto | Descrição | Tecnologias |
-|---|---|---|
-| [terraform-aks-cluster](#) | Provisionamento de cluster Kubernetes no Azure via Terraform | Terraform, Azure, AKS |
-| [cicd-github-actions-pipeline](#) | Pipeline CI/CD de build, teste e deploy automatizado | GitHub Actions, Docker |
-| Desenho e implementação de Snow software |
-| Micração de workloads on-promisses para nuvem Azure|
-| Automação de lock em ambiente azure |
-| Migração de supscription de Tenant|
+### 🌐 Azure Multi-tenant SaaS Architecture
+
+Arquitetura de referência para uma plataforma **SaaS multi-tenant** no Microsoft Azure, com foco em escalabilidade, isolamento entre clientes e governança.
+
+🔗 **Repositório:**  
+[azure-multitenant-saas-architecture](https://github.com/drlima85/azure-multitenant-saas-architecture)
+
+**Tecnologias:** Azure • Networking • Governança • SaaS • Arquitetura
+
+---
+
+### 🔐 Azure Network Segmentation & Monitoring
+
+Projeto de arquitetura para segmentação de redes em múltiplas regiões no Azure, com monitoramento centralizado utilizando conectividade Site-to-Site (S2S).
+
+🔗 **Repositório:**  
+[azure-network-segmentation-monitoring](https://github.com/drlima85/azure-network-segmentation-monitoring)
+
+**Tecnologias:** Azure • VNets • NSGs • Networking • Site-to-Site VPN
+
 
 ---
 
