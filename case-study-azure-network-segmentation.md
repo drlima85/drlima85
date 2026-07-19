@@ -1,6 +1,6 @@
-# Integração de Monitoramento SaaS Multi-Região no Azure via Peering e VPN Gateway
+# Azure SaaS Monitoring Integration via VPN Gateway and VNet Peering
 
-> Conectividade entre um coletor de monitoramento local e uma plataforma de monitoramento SaaS, através de VNet Peering entre assinaturas Azure distintas e VPN Gateway, com coleta de dados via WMI e ajustes de segurança em múltiplas camadas (NSG e firewall local).
+> Desenho e implementação de conectividade segura entre uma plataforma de monitoramento SaaS e um ambiente Azure cliente, utilizando VPN Gateway Site-to-Site, VNet Peering entre assinaturas distintas e coleta de métricas via WMI com controles de segurança em camadas.
 
 ## Problema que resolve
 
