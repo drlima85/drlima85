@@ -6,7 +6,9 @@
 
 Uma plataforma de monitoramento entregue como SaaS (hospedada na assinatura Azure do provedor de serviços) precisava coletar métricas de disponibilidade e performance de dezenas de VMs de produção no ambiente de um cliente hispanohablante na América Latina, localizado em outro país e em uma assinatura Azure separada, com todo o alinhamento técnico do projeto conduzido em espanhol.
 
-A coleta dependia de uma VM coletora local, dentro do ambiente do cliente, que reunia os dados via **WMI (porta 135)** e os enviava para a plataforma SaaS na nuvem. O ambiente do cliente era composto por **mais de 6 Resource Groups**, o que exigia conectividade consistente entre múltiplas VNets de duas assinaturas Azure diferentes (provedor de serviços e cliente).
+A rede do provedor de serviços não tinha por padrão, visibilidade sobre a rede do cliente e era necessário construir conectividade dedicada. Além disso, o ambiente do cliente não era uma rede única: estava distribuído em **mais de 6 Resource Groups**, e o cliente optou por não reaproveitar uma conexão VPN já existente no ambiente, exigindo uma nova conexão dedicada para este projeto.
+
+Como a coleta dependia de uma VM coletora local, dentro do ambiente do cliente via **WMI (porta 135)** para os enviar para a plataforma SaaS na nuvem exigia conectividade consistente entre múltiplas VNets de duas assinaturas Azure diferentes (provedor de serviços e cliente).
 
 ## Arquitetura
 
