@@ -42,22 +42,34 @@ ITSM (ServiceNow) · LogicMonitor · Zabbix · Análise de causa raiz (RCA)
 |---|---|---|
 | [terraform-aks-cluster](#) | Provisionamento de cluster Kubernetes no Azure via Terraform | Terraform, Azure, AKS |
 | [cicd-github-actions-pipeline](#) | Pipeline CI/CD de build, teste e deploy automatizado | GitHub Actions, Docker |
-| [k8s-multicloud-eks-aks-gke](#) | Deploy comparativo do mesmo workload em EKS, AKS e GKE | Kubernetes, AWS, Azure, GCP |
+| Desenho e implementação de Snow software |
+| Micração de workloads on-promisses para nuvem Azure|
+| Automação de lock em ambiente azure |
+| Migração de supscription de Tenant|
 
 ---
 
 ## Certificações
 
-AZ-104 – Azure Administrator · AZ-500 – Azure Security Engineer · AZ-801 – Configuring Windows Server Hybrid Advanced Services · GCP ACE – Google Cloud Associate Engineer · AWS CCP – Cloud Practitioner · SC-900 – Security, Compliance, and Identity Fundamentals · MCSA 2016 · ITIL v3
+· AZ-104 – Azure Administrator
+· AZ-500 – Azure Security Engineer
+· AZ-801 – Configuring Windows Server Hybrid Advanced Services
+· GCP ACE – Google Cloud Associate Engineer
+· AWS CCP – Cloud Practitioner
+· SC-900 – Security, Compliance, and Identity Fundamentals
+· MCSA 2016
+· ITIL v3
 
 ## Formação Acadêmica
 
-Pós-Graduação em Liderança e Gestão em Tecnologia — Conquer Business (2023–2024)
-Graduação em Redes de Computadores — Faculdade Sumaré (2012–2014)
+Pós-Graduação em Liderança e Gestão em Tecnologia
+Graduação em Redes de Computadores
 
 ## Idiomas
 
-Português: Nativo · Espanhol: Avançado · Inglês: Intermediário
+Português: Nativo
+· Espanhol: Avançado
+· Inglês: Intermediário
 
 ---
 
