@@ -1,6 +1,6 @@
-# Arquitetura Multi-Tenant no Azure para Plataforma SaaS de Gestão de Ativos
+# Arquitetura SaaS Multi-Tenant no Azure para Gestão de Ativos Corporativos
 
-> Provisionamento de infraestrutura Azure para suportar uma ferramenta de gestão de licenciamento de software (SaaS) em modelo Service Provider, atendendo múltiplos clientes através de um endpoint compartilhado.
+> Arquitetura e provisionamento de infraestrutura Azure para uma plataforma SaaS em modelo Service Provider, permitindo atender múltiplos clientes corporativos através de um endpoint compartilhado, com foco em escalabilidade, segurança e eficiência operacional.
 
 ## Problema que resolve
 
