@@ -43,7 +43,7 @@ ITSM (ServiceNow) · LogicMonitor · Zabbix · Análise de causa raiz (RCA)
 Arquitetura de referência para uma plataforma **SaaS multi-tenant** no Microsoft Azure, com foco em escalabilidade, isolamento entre clientes e governança.
 
 🔗 **Repositório:**  
-[azure-multitenant-saas-architecture](https://github.com/drlima85/azure-multitenant-saas-architecture)
+[azure-multitenant-saas-architecture]([https://github.com/drlima85/azure-multitenant-saas-architecture](https://github.com/drlima85/drlima85/blob/main/Case%20study%20Azure.md))
 
 **Tecnologias:** Azure • Networking • Governança • SaaS • Arquitetura
 
@@ -54,7 +54,7 @@ Arquitetura de referência para uma plataforma **SaaS multi-tenant** no Microsof
 Projeto de arquitetura para segmentação de redes em múltiplas regiões no Azure, com monitoramento centralizado utilizando conectividade Site-to-Site (S2S).
 
 🔗 **Repositório:**  
-[azure-network-segmentation-monitoring](https://github.com/drlima85/azure-network-segmentation-monitoring)
+[azure-network-segmentation-monitoring](https://github.com/drlima85/drlima85/blob/main/case-study-azure-network-segmentation.md)
 
 **Tecnologias:** Azure • VNets • NSGs • Networking • Site-to-Site VPN
 
