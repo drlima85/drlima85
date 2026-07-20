@@ -2,7 +2,9 @@
 
 ### Cloud Architect | Senior Cloud Specialist — Multicloud Azure, AWS & GCP
 
-Líder técnico com mais de 15 anos de experiência em ambientes de missão crítica, com forte especialização em Microsoft Azure (IaaS e Networking) e sustentação de cenários híbridos e multicloud (Azure, AWS e GCP). Atuação no desenho de arquiteturas resilientes, conectividade avançada, alta disponibilidade e estratégias de Disaster Recovery para clientes corporativos e LATAM, com histórico comprovado em governança, automação de infraestrutura e otimização de custos (FinOps).
+Líder Técnico (Tech Lead) e Especialista em Cloud & Infraestrutura com mais de 15 anos de sólida experiência em ambientes de missão critica, atuando na definição de arquiteturas complexas de grande porte. Atuação com  migração e modernização de ambientes onpremises, híbridos e multicloud (Azure, AWS e GCP).
+Experiência consolidada na condução de iniciativas de Cloud, com governança, alta disponibilidade e estratégias de Disaster Recovery, garantindo continuidade operacional e conformidade regulatória.
+Atuação como Tech Lead em projetos críticos para clientes corporativos e LATAM, liderando equipes multidisciplinares e promovendo eficiência operacional, automação e otimização de custos (FinOps).
 
 ---
 
