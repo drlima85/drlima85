@@ -14,27 +14,66 @@ Atuação como Tech Lead em projetos críticos para clientes corporativos e LATA
 ![Azure](https://img.shields.io/badge/Azure-0072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 **🌐 Networking & Conectividade**
-ExpressRoute · VPN Site-to-Site · VNets · NSGs · Azure Firewall · Application Gateway · Load Balancing (ELB/ALB)
+· ExpressRoute 
+· VPN Site-to-Site 
+· VNets 
+· NSGs 
+· Azure Firewall 
+· Application Gateway 
+· Load Balancing (ELB/ALB)
 
 **🐳 Containers & Orquestração**
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-Amazon ECS · Amazon ECR
+· Amazon ECS 
+· Amazon ECR
 
 **🏗️ Infraestrutura como Código & CI/CD**
 ![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
-ARM Templates · Azure DevOps
+· ARM Templates 
+· Azure DevOps
+· Azure Biceps
 
 **🔐 Segurança & Identidade**
-Microsoft Entra ID · RBAC · Conditional Access · MFA · Azure Key Vault · AWS Secrets Manager · AWS Systems Manager (SSM) · Security Groups (AWS) · Cisco DUO · Okta
+Microsoft Entra ID 
+· RBAC 
+· Conditional Access 
+· MFA 
+· Azure Key Vault 
+· AWS Secrets Manager 
+· AWS Systems Manager (SSM) 
+· Security Groups (AWS) 
+· Cisco DUO 
+· Okta
 
 **💰 FinOps & Governança**
-Azure Cost Management · Azure Advisor · AWS Cost Explorer · Reservations & Savings Plans · Rightsizing · Chargeback · Showback · Budget & Forecast · KPIs de FinOps
+Azure Cost Management 
+· Azure Advisor 
+· AWS Cost Explorer 
+· Reservations & Savings Plans 
+· Rightsizing 
+· Chargeback 
+· Showback 
+· Budget & Forecast 
+· KPIs de FinOps
+· Portal EA & CSP
 
 **🖥️ Infraestrutura & Virtualização**
-Active Directory · DNS · DHCP · GPO · O365 · WSUS · VMware · Hyper-V · VMM · Citrix XenApp / Citrix Cloud
+Active Directory 
+· DNS 
+· DHCP 
+· GPO 
+· O365 
+· WSUS 
+· VMware 
+· Hyper-V 
+· VMM 
+· Citrix XenApp / Citrix Cloud
 
 **📊 Sustentação & SRE**
-ITSM (ServiceNow) · LogicMonitor · Zabbix · Análise de causa raiz (RCA)
+ITSM (ServiceNow) 
+· LogicMonitor 
+· Zabbix 
+· Análises de causa raiz (RCA)
 
 ---
 
@@ -47,7 +86,7 @@ Arquitetura de referência para uma plataforma **SaaS multi-tenant** no Microsof
 🔗 **Repositório:**  
 [azure-multitenant-saas-architecture]([https://github.com/drlima85/azure-multitenant-saas-architecture](https://github.com/drlima85/drlima85/blob/main/Case%20study%20Azure.md))
 
-**Tecnologias:** Azure • Networking • Governança • SaaS • Arquitetura
+**Tecnologias:** • Azure • Networking • Governança • SaaS • Arquitetura
 
 ---
 
@@ -58,8 +97,8 @@ Projeto de arquitetura para segmentação de redes em múltiplas regiões no Azu
 🔗 **Repositório:**  
 [azure-network-segmentation-monitoring](https://github.com/drlima85/drlima85/blob/main/case-study-azure-network-segmentation.md)
 
-**Tecnologias:** Azure • VNets • NSGs • Networking • Site-to-Site VPN
-
+**Tecnologias:** 
+• Azure • VNets • NSGs • Networking • Site-to-Site VPN
 
 ---
 
@@ -81,7 +120,7 @@ Graduação em Redes de Computadores
 
 ## Idiomas
 
-Português: Nativo
+· Português: Nativo
 · Espanhol: Avançado
 · Inglês: Intermediário
 
