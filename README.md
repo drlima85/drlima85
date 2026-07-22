@@ -14,14 +14,14 @@ Atuação como Tech Lead em projetos críticos para clientes corporativos e LATA
 **☁️ Cloud Computing:**
 **Azure** - **AWS** - **GCP**
 
-**🌐 Networking & Conectividade**
-**· ExpressRoute **
-**· VPN Site-to-Site** 
-**· VNets** 
-**· NSGs** 
-**· Azure Firewall** 
-**· Application Gateway** 
-**· Load Balancing (ELB/ALB)**
+**🌐 Networking & Conectividade:**
+· ExpressRoute
+· VPN Site-to-Site
+· VNets
+· NSGs
+· Azure Firewall
+· Application Gateway
+· Load Balancing (ELB/ALB)
 
 **🐳 Containers & Orquestração:**
 **· Docker** **· Kubernetes**
