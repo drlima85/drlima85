@@ -24,57 +24,57 @@ Atuação como Tech Lead em projetos críticos para clientes corporativos e LATA
 · Load Balancing (ELB/ALB)
 
 **🐳 Containers & Orquestração:**
-**· Docker** **· Kubernetes**
-**· Amazon ECS**
-**· Amazon ECR**
+· Docker · Kubernetes
+· Amazon ECS
+· Amazon ECR
 
 **🏗️ Infraestrutura como Código & CI/CD:**
-**· Terraform** **· GitHub Actions** **· Ansible**
-**· ARM Templates**
-**· Azure DevOps**
-**· Azure Biceps**
+· Terraform · GitHub Actions· Ansible
+· ARM Templates
+· Azure DevOps
+· Azure Biceps
 
 **🔐 Segurança & Identidade:**
-**· Microsoft Entra ID**
-**· RBAC**
-**· Conditional Access**
-**· MFA**
-**· Azure Key Vault**
-**· AWS Secrets Manager**
-**· AWS Systems Manager (SSM)**
-**· Security Groups (AWS)**
-**· Cisco DUO**
-**· Okta**
+· Microsoft Entra ID
+· RBAC
+· Conditional Access
+ MFA
+· Azure Key Vault
+· AWS Secrets Manager
+· AWS Systems Manager (SSM)
+· Security Groups (AWS)
+· Cisco DUO
+· Okta
 
 **💰 FinOps & Governança:**
-**. Azure Cost Management**
-**· Azure Advisor**
-**· AWS Cost Explorer**
-**· Reservations & Savings Plans**
-**· Rightsizing**
-**· Chargeback**
-**· Showback**
-**· Budget & Forecast**
-**· KPIs de FinOps**
-**· Portal EA & CSP**
+. Azure Cost Management
+· Azure Advisor
+· AWS Cost Explorer
+· Reservations & Savings Plans
+· Rightsizing
+· Chargeback
+· Showback
+· Budget & Forecast
+· KPIs de FinOps
+· Portal EA & CSP
 
 **🖥️ Infraestrutura & Virtualização:**
-**Active Directory**
-**· DNS**
-**· DHCP**
-**· GPO**
-**· O365**
-**· WSUS**
-**· VMware** 
-**· Hyper-V**
-**· VMM**
-**· Citrix XenApp / Citrix Cloud**
+Active Directory**
+· DNS
+· DHCP
+· GPO
+· O365
+· WSUS
+· VMware
+· Hyper-V
+· VMM
+· Citrix XenApp / Citrix Cloud
 
 **📊 Sustentação & SRE:**
-**ITSM (ServiceNow)**
-**· LogicMonitor** 
-**· Zabbix** 
-**· Análises de causa raiz (RCA)**
+ITSM (ServiceNow)
+· LogicMonitor
+· Zabbix
+· Análises de causa raiz (RCA)
 
 ---
 
