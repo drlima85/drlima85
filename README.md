@@ -11,7 +11,7 @@ Atuação como Tech Lead em projetos críticos para clientes corporativos e LATA
 ## Stack & Ferramentas
 
 **☁️ Cloud Computing:**
-**Azure** **AWS** **GCP**
+**Azure** - **AWS** - **GCP**
 
 **🌐 Networking & Conectividade**
 · ExpressRoute 
@@ -22,58 +22,58 @@ Atuação como Tech Lead em projetos críticos para clientes corporativos e LATA
 · Application Gateway 
 · Load Balancing (ELB/ALB)
 
-**🐳 Containers & Orquestração**
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-· Amazon ECS 
-· Amazon ECR
+**🐳 Containers & Orquestração:**
+**· Docker** **· Kubernetes**
+**· Amazon ECS**
+**· Amazon ECR**
 
-**🏗️ Infraestrutura como Código & CI/CD**
-![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
-· ARM Templates 
-· Azure DevOps
-· Azure Biceps
+**🏗️ Infraestrutura como Código & CI/CD:**
+**· Terraform** **· GitHub Actions** **· Ansible**
+**· ARM Templates**
+**· Azure DevOps**
+**· Azure Biceps**
 
-**🔐 Segurança & Identidade**
-Microsoft Entra ID 
-· RBAC 
-· Conditional Access 
-· MFA 
-· Azure Key Vault 
-· AWS Secrets Manager 
-· AWS Systems Manager (SSM) 
-· Security Groups (AWS) 
-· Cisco DUO 
-· Okta
+**🔐 Segurança & Identidade:**
+**· Microsoft Entra ID**
+**· RBAC**
+**· Conditional Access**
+**· MFA**
+**· Azure Key Vault**
+**· AWS Secrets Manager**
+**· AWS Systems Manager (SSM)**
+**· Security Groups (AWS)**
+**· Cisco DUO**
+**· Okta**
 
-**💰 FinOps & Governança**
-Azure Cost Management 
-· Azure Advisor 
-· AWS Cost Explorer 
-· Reservations & Savings Plans 
-· Rightsizing 
-· Chargeback 
-· Showback 
-· Budget & Forecast 
-· KPIs de FinOps
-· Portal EA & CSP
+**💰 FinOps & Governança:**
+**. Azure Cost Management**
+**· Azure Advisor**
+**· AWS Cost Explorer**
+**· Reservations & Savings Plans**
+**· Rightsizing**
+**· Chargeback**
+**· Showback**
+**· Budget & Forecast**
+**· KPIs de FinOps**
+**· Portal EA & CSP**
 
-**🖥️ Infraestrutura & Virtualização**
-Active Directory 
-· DNS 
-· DHCP 
-· GPO 
-· O365 
-· WSUS 
-· VMware 
-· Hyper-V 
-· VMM 
-· Citrix XenApp / Citrix Cloud
+**🖥️ Infraestrutura & Virtualização:**
+**Active Directory**
+**· DNS**
+**· DHCP**
+**· GPO**
+**· O365**
+**· WSUS**
+**· VMware** 
+**· Hyper-V**
+**· VMM**
+**· Citrix XenApp / Citrix Cloud**
 
-**📊 Sustentação & SRE**
-ITSM (ServiceNow) 
-· LogicMonitor 
-· Zabbix 
-· Análises de causa raiz (RCA)
+**📊 Sustentação & SRE:**
+**ITSM (ServiceNow)**
+**· LogicMonitor** 
+**· Zabbix** 
+**· Análises de causa raiz (RCA)**
 
 ---
 
