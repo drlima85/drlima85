@@ -79,29 +79,38 @@ ITSM (ServiceNow)
 
 ## 🚀 Projetos em Destaque
 
-### 🌐 Azure Multi-tenant SaaS Architecture
+### 🌐 ENTERPRISE-CLOUD-CASE-STUDIES
 
-Arquitetura de referência para uma plataforma **SaaS multi-tenant** no Microsoft Azure, com foco em escalabilidade, isolamento entre clientes e governança.
+Arquitetura de referência para uma plataforma **Infrastrutura, Governança, Finops, monitoração e melhorias** em Cloud e ambientes hibridos, com foco em escalabilidade, isolamento entre clientes e governança.
 
 🔗 **Repositório:**  
-[azure-multitenant-saas-architecture]([https://github.com/drlima85/azure-multitenant-saas-architecture](https://github.com/drlima85/drlima85/blob/main/Case%20study%20Azure.md))
+[ENTERPRISE-CLOUD-CASE-STUDIES](https://github.com/drlima85/ENTERPRISE-CLOUD-CASE-STUDIES)
 
-**Tecnologias:** • Azure • Networking • Governança • SaaS • Arquitetura
+**Tecnologias:** • Cloud Azure \ AWS \ GCP • Networking • Governança • SaaS • Arquitetura • FinOps • Monitoração • Escabilidade
 
 ---
 
-### 🔐 Azure Network Segmentation & Monitoring
+### 🔐 AZURE-CLOUD-PROJECTS
 
-Projeto de arquitetura para segmentação de redes em múltiplas regiões no Azure, com monitoramento centralizado utilizando conectividade Site-to-Site (S2S).
+Laboratórios práticos e desafios no Azure, desafios de arquitetura e projetos práticos focados em serviços do Azure, automação, redes, governança e melhores práticas de nuvem.
 
 🔗 **Repositório:**  
-[azure-network-segmentation-monitoring](https://github.com/drlima85/drlima85/blob/main/case-study-azure-network-segmentation.md)
+[AZURE-CLOUD-PROJECTS](https://github.com/drlima85/AZURE-CLOUD-PROJECTS)
 
 **Tecnologias:** 
-• Azure • VNets • NSGs • Networking • Site-to-Site VPN
-
+• Azure • VNets • NSGs • Networking • Site-to-Site VPN • Saas • Iaas • Migration • Saas • Hub-Spoke • Backup • Azure Policy • CAF • CI\CD • DEVOPs
 ---
 
+### 🔐 AWS-CLOUD-PROJECTS
+
+Laboratórios práticos e desafios na AWS, desafios de arquitetura e projetos práticos focados em serviços da AWS, automação, redes, governança e melhores práticas de nuvem.
+
+🔗 **Repositório:**  
+[AWS-CLOUD-PROJECTS](https://github.com/drlima85/CLOUD-SCRIPTS)
+
+**Tecnologias:** 
+• Amazon VPC • Security Groups • AWS Networking • AWS Site-to-Site VPN • AWS Backup • AWS CodePipeline, CodeBuild e CodeDeploy • EC2 • ECS • KIRO CLI • ALB • Route 53 • CI\CD • DEVOPs
+---
 ## Certificações
 
 · AZ-104 – Azure Administrator
