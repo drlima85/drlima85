@@ -3,6 +3,7 @@
 ### Cloud Architect | Senior Cloud Specialist — Multicloud Azure, AWS & GCP
 
   Líder Técnico (Tech Lead) e Especialista em Cloud & Infraestrutura com mais de 15 anos de sólida experiência em ambientes de missão critica, atuando na definição de arquiteturas complexas de grande porte. Atuação com  migração e modernização de ambientes onpremises, híbridos e multicloud (Azure, AWS e GCP).
+  
   Experiência consolidada na condução de iniciativas de Cloud, com governança, alta disponibilidade e estratégias de Disaster Recovery, garantindo continuidade operacional e conformidade regulatória.
 Atuação como Tech Lead em projetos críticos para clientes corporativos e LATAM, liderando equipes multidisciplinares e promovendo eficiência operacional, automação e otimização de custos (FinOps).
 
@@ -14,13 +15,13 @@ Atuação como Tech Lead em projetos críticos para clientes corporativos e LATA
 **Azure** - **AWS** - **GCP**
 
 **🌐 Networking & Conectividade**
-· ExpressRoute 
-· VPN Site-to-Site 
-· VNets 
-· NSGs 
-· Azure Firewall 
-· Application Gateway 
-· Load Balancing (ELB/ALB)
+**· ExpressRoute **
+**· VPN Site-to-Site** 
+**· VNets** 
+**· NSGs** 
+**· Azure Firewall** 
+**· Application Gateway** 
+**· Load Balancing (ELB/ALB)**
 
 **🐳 Containers & Orquestração:**
 **· Docker** **· Kubernetes**
@@ -125,12 +126,19 @@ Estudos em Google Cloud Platform com projetos práticos focados em Compute Engin
 ## Certificações
 
 · AZ-104 – Azure Administrator
+
 · AZ-500 – Azure Security Engineer
+
 · AZ-801 – Configuring Windows Server Hybrid Advanced Services
+
 · GCP ACE – Google Cloud Associate Engineer
+
 · AWS CCP – Cloud Practitioner
+
 · SC-900 – Security, Compliance, and Identity Fundamentals
+
 · MCSA 2016
+
 · ITIL v3
 
 ## Formação Acadêmica
