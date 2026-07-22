@@ -135,14 +135,17 @@ Estudos em Google Cloud Platform com projetos práticos focados em Compute Engin
 
 ## Formação Acadêmica
 
-Pós-Graduação em Liderança e Gestão em Tecnologia
-Graduação em Redes de Computadores
+**Pós-Graduação** em Liderança e Gestão em Tecnologia
+
+**Graduação** em Redes de Computadores
 
 ## Idiomas
 
-· Português: Nativo
-· Espanhol: Avançado
-· Inglês: Intermediário
+**· Português:** Nativo
+
+**· Espanhol:** Avançado
+
+**· Inglês:** Intermediário
 
 ---
 
