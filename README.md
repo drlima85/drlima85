@@ -10,8 +10,8 @@ Atuação como Tech Lead em projetos críticos para clientes corporativos e LATA
 
 ## Stack & Ferramentas
 
-**☁️ Cloud Computing**
-![Azure] ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+**☁️ Cloud Computing:**
+**Azure** **AWS** **GCP**
 
 **🌐 Networking & Conectividade**
 · ExpressRoute 
