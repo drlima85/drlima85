@@ -90,26 +90,37 @@ Arquitetura de referência para uma plataforma **Infrastrutura, Governança, Fin
 
 ---
 
-### 🔐 AZURE-CLOUD-PROJECTS
+### 🔷 AZURE-CLOUD-PROJECTS
 
-Laboratórios práticos e desafios no Azure, desafios de arquitetura e projetos práticos focados em serviços do Azure, automação, redes, governança e melhores práticas de nuvem.
+Laboratórios práticos e desafios no Azure: arquitetura, automação, redes, governança e melhores práticas de nuvem, cobrindo desde a Landing Zone inicial até migração, modernização de aplicação e CI/CD.
 
-🔗 **Repositório:**  
+🔗 **Repositório:**
 [AZURE-CLOUD-PROJECTS](https://github.com/drlima85/AZURE-CLOUD-PROJECTS)
 
-**Tecnologias:** 
-• Azure • VNets • NSGs • Networking • Site-to-Site VPN • Saas • Iaas • Migration • Saas • Hub-Spoke • Backup • Azure Policy • CAF • CI\CD • DEVOPs
+**Tecnologias:** Azure • VNets • NSGs • Networking • Site-to-Site VPN • IaaS/PaaS • Migration • Hub-Spoke • Backup • Azure Policy • CAF • CI/CD • DevOps
+
 ---
 
-### 🔐 AWS-CLOUD-PROJECTS
+### 🟧 AWS-CLOUD-PROJECTS
 
-Laboratórios práticos e desafios na AWS, desafios de arquitetura e projetos práticos focados em serviços da AWS, automação, redes, governança e melhores práticas de nuvem.
+Jornada de aprendizado em AWS com labs práticos cobrindo IAM, EC2, S3, Docker, Terraform, automação, scripting e infraestrutura em nuvem.
 
-🔗 **Repositório:**  
-[AWS-CLOUD-PROJECTS](https://github.com/drlima85/CLOUD-SCRIPTS)
+🔗 **Repositório:**
+[AWS-CLOUD-PROJECTS](https://github.com/drlima85/AWS-CLOUD-PROJECTS)
 
-**Tecnologias:** 
-• Amazon VPC • Security Groups • AWS Networking • AWS Site-to-Site VPN • AWS Backup • AWS CodePipeline, CodeBuild e CodeDeploy • EC2 • ECS • KIRO CLI • ALB • Route 53 • CI\CD • DEVOPs
+**Tecnologias:** Amazon VPC • Security Groups • AWS Networking • AWS Site-to-Site VPN • AWS Backup • AWS CodePipeline, CodeBuild e CodeDeploy • EC2 • ECS • ALB • Route 53 • CI/CD • DevOps
+
+---
+
+### 🟦 GCP-CLOUD-PROJECTS
+
+Estudos em Google Cloud Platform com projetos práticos focados em Compute Engine, IAM, networking, storage, governança e automação de infraestrutura.
+
+🔗 **Repositório:**
+[GCP-CLOUD-PROJECTS](https://github.com/drlima85/GCP-cloud-projects)
+
+**Tecnologias:** Compute Engine • IAM • VPC • Cloud Storage • Governança • Automação de Infraestrutura
+
 ---
 ## Certificações
 
