@@ -1,6 +1,6 @@
 # Danilo Lima
 
-### Cloud Architect | Senior Cloud Specialist — Multicloud Azure, AWS & GCP
+### Cloud Architect | Senior Cloud Specialist | Multicloud Azure, AWS & GCP
 
   Líder Técnico (Tech Lead) e Especialista em Cloud & Infraestrutura com mais de 15 anos de sólida experiência em ambientes de missão critica, atuando na definição de arquiteturas complexas de grande porte. Atuação com  migração e modernização de ambientes onpremises, híbridos e multicloud (Azure, AWS e GCP).
   
