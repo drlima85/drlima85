@@ -1,11 +1,12 @@
 # Danilo Lima
 
-### Cloud Architect | Senior Cloud Specialist | Multicloud Azure, AWS & GCP
+### Cloud & Infrastructure Architect | Microsoft Azure | AWS | Hybrid Cloud | IAM | Cloud Security | FinOps & Governance
 
-  Líder Técnico (Tech Lead) e Especialista em Cloud & Infraestrutura com mais de 15 anos de sólida experiência em ambientes de missão critica, atuando na definição de arquiteturas complexas de grande porte. Atuação com  migração e modernização de ambientes onpremises, híbridos e multicloud (Azure, AWS e GCP).
-  
-  Experiência consolidada na condução de iniciativas de Cloud, com governança, alta disponibilidade e estratégias de Disaster Recovery, garantindo continuidade operacional e conformidade regulatória.
-Atuação como Tech Lead em projetos críticos para clientes corporativos e LATAM, liderando equipes multidisciplinares e promovendo eficiência operacional, automação e otimização de custos (FinOps).
+  Cloud & Infrastructure Architect e Tech Lead com mais de 15 anos de experiência em infraestrutura enterprise, atuando na arquitetura, modernização, governança e sustentação de ambientes críticos on-premises, híbridos e multicloud.
+
+  Forte atuação em Microsoft Azure, com experiência profissional também em AWS e Google Cloud Platform (GCP), incluindo infraestrutura cloud, identidade e controle de acesso (IAM), migração e modernização de workloads, alta disponibilidade, Disaster Recovery, Cloud Security e Cloud Governance.
+
+  Experiência em liderança técnica de equipes multidisciplinares e atuação em projetos para clientes corporativos de grande porte na América Latina (LATAM), incluindo iniciativas de FinOps, governança, segurança, automação e modernização de infraestrutura.
 
 ---
 
@@ -29,10 +30,9 @@ Atuação como Tech Lead em projetos críticos para clientes corporativos e LATA
 · Amazon ECR
 
 **🏗️ Infraestrutura como Código & CI/CD:**
-· Terraform · GitHub Actions· Ansible
-· ARM Templates
-· Azure DevOps
-· Azure Biceps
+
+· ARM Templates · Azure Bicep (Tecnologias com experiência em projetos profissionais)
+· Terraform · GitHub Actions· Ansible · Azure DevOps (Tecnologias com experiência em projetos profissionais e/ou aplicação em estudos e laboratórios práticos)
 
 **🔐 Segurança & Identidade:**
 · Microsoft Entra ID
