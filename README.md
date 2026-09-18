@@ -82,7 +82,8 @@ ITSM (ServiceNow)
 
 ### 🌐 ENTERPRISE-CLOUD-CASE-STUDIES
 
-Arquitetura de referência para uma plataforma **Infrastrutura, Governança, Finops, monitoração e melhorias** em Cloud e ambientes hibridos, com foco em escalabilidade, isolamento entre clientes e governança.
+Arquitetura de referência em ambientes reais para uma plataforma **Infrastrutura, Governança, Finops, monitoração e melhorias** em Cloud e ambientes hibridos, com foco em escalabilidade, isolamento entre clientes e governança.
+Obs:. Por questões de ética e LGPD, os clientes e ambientes foram anonimizados, porém é possível demonstrar cada projeto realizado.
 
 🔗 **Repositório:**  
 [ENTERPRISE-CLOUD-CASE-STUDIES](https://github.com/drlima85/ENTERPRISE-CLOUD-CASE-STUDIES)
@@ -98,18 +99,18 @@ Laboratórios práticos e desafios no Azure: arquitetura, automação, redes, go
 🔗 **Repositório:**
 [AZURE-CLOUD-PROJECTS](https://github.com/drlima85/AZURE-CLOUD-PROJECTS)
 
-**Tecnologias:** Azure • VNets • NSGs • Networking • Site-to-Site VPN • IaaS/PaaS • Migration • Hub-Spoke • Backup • Azure Policy • CAF • CI/CD • DevOps
+**Tecnologias:** Azure • VNets • NSGs • Networking • Site-to-Site VPN • IaaS/PaaS • Migration • Hub-Spoke • Backup • Azure Policy • CAF • CI/CD • DevOps • IA
 
 ---
 
 ### 🟧 AWS-CLOUD-PROJECTS
 
-Jornada de aprendizado em AWS com labs práticos cobrindo IAM, EC2, S3, Docker, Terraform, automação, scripting e infraestrutura em nuvem.
+Jornada de aprendizado em AWS com labs práticos cobrindo IAM, EC2, S3, Docker, Terraform, automação, scripting, IA MultiAgentic e infraestrutura em nuvem.
 
 🔗 **Repositório:**
 [AWS-CLOUD-PROJECTS](https://github.com/drlima85/AWS-CLOUD-PROJECTS)
 
-**Tecnologias:** Amazon VPC • Security Groups • AWS Networking • AWS Site-to-Site VPN • AWS Backup • AWS CodePipeline, CodeBuild e CodeDeploy • EC2 • ECS • ALB • Route 53 • CI/CD • DevOps
+**Tecnologias:** Amazon VPC • Security Groups • AWS Networking • AWS Site-to-Site VPN • AWS Backup • AWS CodePipeline, CodeBuild e CodeDeploy • EC2 • ECS • ALB • Route 53 • CI/CD • DevOps • IA • BedRock • Guardrails
 
 ---
 
